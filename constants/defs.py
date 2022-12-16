@@ -1,0 +1,7 @@
+API_KEY = '38f8e94f6280035f60352896f82c050b-216bf5776cc4c9ed7381f4155d694294'
+ACCOUNT_ID = '101-012-22968311-001'
+OANDA_URL = 'https://api-fxpractice.oanda.com/v3'
+
+SELL = -1
+BUY = 1
+NONE = 0
